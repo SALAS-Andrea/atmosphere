@@ -325,7 +325,8 @@ footer {
   }
   nav {
     flex-direction: column;
-     flex: auto;
+     position: static;
+    font-size: 10px;
   }
 }
 
