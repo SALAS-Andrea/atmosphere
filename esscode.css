@@ -301,15 +301,6 @@ li {
   height: 250px;
 }
 
-.img-atm{
-  display: flex;
-  flex-direction: column;
-  float: right;
-  margin-right: 100px;
-  width: 150px;
-}
-
-
 
 
 footer {
