@@ -325,6 +325,7 @@ footer {
   }
   nav {
     flex-direction: column;
+    margin-left: 50px;
   }
 }
 
