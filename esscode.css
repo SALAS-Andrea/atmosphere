@@ -329,5 +329,8 @@ footer {
     margin-left: 20px;
     font-size: 12px;
   }
+  sous.menu {
+    padding: 5px;
+  }
 }
 
