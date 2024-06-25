@@ -327,10 +327,11 @@ footer {
     flex-direction: column;
      gap: 0px;
     margin-left: 20px;
-    font-size: 12px;
+    font-size: 15px;
   }
   sous.menu {
     padding: 5px;
     text-align: left;
+    font-size: 15px;
 }
 
