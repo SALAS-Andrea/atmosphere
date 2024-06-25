@@ -331,7 +331,6 @@ footer {
   }
   .sous-menu > li > a{
     text-align: left;
-    font-size: 30px;
     position: static;
   }
 }
