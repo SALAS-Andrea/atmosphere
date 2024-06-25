@@ -327,11 +327,11 @@ footer {
     flex-direction: column;
      gap: 0px;
     margin-left: 20px;
-    font-size: 15px;
+    font-size: 18px;
   }
   .sous-menu > li > a{
     text-align: left;
-    font-size: 15px;
+    font-size: 18px;
     position: static;
   }
 }
