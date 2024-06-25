@@ -329,9 +329,10 @@ footer {
     margin-left: 20px;
     font-size: 15px;
   }
-  sous.menu > li > a{
+  nav > ul > li > a{
     text-align: left;
     font-size: 15px;
-    padding-left: 5px;
+    position: static;
+  }
 }
 
