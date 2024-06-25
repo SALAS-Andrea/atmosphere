@@ -317,7 +317,7 @@ footer {
     text-align: right;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1050px) {
   .contener {
    grid-template-columns: none;
    gap: 0px;
