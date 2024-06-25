@@ -331,6 +331,6 @@ footer {
   }
   sous.menu {
     padding: 5px;
-    align-items: start;
+    text-align: left;
 }
 
